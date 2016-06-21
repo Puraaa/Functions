@@ -1,4 +1,4 @@
 function hello(){
-	var userName = "lihle";
-	return "hello" +  userName;
+	var str = "Hello World!";
+return str.toUpperCase();
 };

@@ -1,4 +1,4 @@
-function hello(){
-	var name ="hello world";
+function zizi(){
+	var name = "hello world";
 	return name
 };
